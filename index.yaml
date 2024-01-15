@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nextdns-exporter:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2024-01-15T05:17:16.261845782Z"
+    description: Helm Chart for NextDNS Exporter
+    digest: 02e5e08124ea3198eb7e97a8006c3f62b46c0bf4be59224e3f952ea5d505380c
+    name: nextdns-exporter
+    urls:
+    - https://github.com/FawenYo/nextdns-exporter-helm-chart/releases/download/nextdns-exporter-1.0.0/nextdns-exporter-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-01-15T05:17:16.261872943Z"

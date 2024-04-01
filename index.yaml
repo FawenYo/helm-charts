@@ -10,4 +10,15 @@ entries:
     urls:
     - https://github.com/FawenYo/nextdns-exporter-helm-chart/releases/download/nextdns-exporter-1.0.0/nextdns-exporter-1.0.0.tgz
     version: 1.0.0
-generated: "2024-01-15T05:17:16.261872943Z"
+  teams-status-monitor:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-04-01T15:01:28.236276972Z"
+    description: A Helm chart for Kubernetes
+    digest: c1803ce35bcba8aa7128352dd1e1b90cb0b0fedfc37e5fee8c86c58d2b79009f
+    name: teams-status-monitor
+    type: application
+    urls:
+    - https://github.com/FawenYo/teams_status_monitor/releases/download/teams-status-monitor-1.0.0/teams-status-monitor-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-04-01T15:01:28.23628661Z"

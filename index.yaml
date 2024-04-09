@@ -13,6 +13,16 @@ entries:
   teams-status-monitor:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-04-09T16:01:24.061045845Z"
+    description: A Helm chart for Kubernetes
+    digest: 7281403abee90453f5e3f1c954755d22c5f3c3f6ff7dba8998f987cd9949bd0b
+    name: teams-status-monitor
+    type: application
+    urls:
+    - https://github.com/FawenYo/teams_status_monitor/releases/download/teams-status-monitor-1.0.1/teams-status-monitor-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-04-01T15:01:28.236276972Z"
     description: A Helm chart for Kubernetes
     digest: c1803ce35bcba8aa7128352dd1e1b90cb0b0fedfc37e5fee8c86c58d2b79009f
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/FawenYo/teams_status_monitor/releases/download/teams-status-monitor-1.0.0/teams-status-monitor-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-01T15:01:28.23628661Z"
+generated: "2024-04-09T16:01:24.061058057Z"

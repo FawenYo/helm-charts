@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   adguard-home:
   - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2024-09-08T14:54:35.097188004Z"
+    description: A Helm chart for Kubernetes
+    digest: 4f64f1cf9e762c7b00366c22d20fee8f5aab3c8010dd3b8e8fd41f1c4120c8ce
+    name: adguard-home
+    type: application
+    urls:
+    - https://github.com/FawenYo/adguard-home-chart/releases/download/adguard-home-1.0.2/adguard-home-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     appVersion: 1.0.1
     created: "2024-09-08T14:35:03.5783847Z"
     description: A Helm chart for Kubernetes
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://github.com/FawenYo/teams_status_monitor/releases/download/teams-status-monitor-1.0.0/teams-status-monitor-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-08T14:35:03.578398676Z"
+generated: "2024-09-08T14:54:35.097206879Z"
